@@ -3,3 +3,7 @@
 3. Container with most water (https://leetcode.com/problems/container-with-most-water/description/?envType=list&envId=oceyii8d)
 4. Longest Palindromic Substring (https://leetcode.com/problems/longest-palindromic-substring/description/?envType=list&envId=oceyii8d)
 5. Longest Substring Without Repeating Characters (https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=list&envId=oceyii8d)
+6. Valid Parentheses (https://leetcode.com/problems/valid-parentheses/description/?envType=list&envId=oceyii8d)
+7. Generate Parentheses (https://leetcode.com/problems/generate-parentheses/description/?envType=list&envId=oceyii8d)
+8. Merge Two Sorted Lists (https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=list&envId=oceyii8d)
+9. Remove Duplicates from Sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=list&envId=oceyii8d)
